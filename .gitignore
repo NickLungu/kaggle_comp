@@ -1,3 +1,2 @@
 .venv
 .dvc
-**/data/*.csv
